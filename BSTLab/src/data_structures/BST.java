@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays; 
 
 /**
- * @author karroje
+ *  @author Kai Li
  *
  */
 public class BST<K extends Comparable<K>, V> extends Dictionary<K, V> {
