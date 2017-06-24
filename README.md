@@ -1,4 +1,4 @@
-# CSE274Project
+# CSE274Project at Miami University
 CSE274 is called the Data Abstraction and Structure at Miami University. 
 This course entails learning the common types of data structure that will 
 be taught such as Array, Vector, Queue, Stack, List, LinkedList, Set, tree, 
